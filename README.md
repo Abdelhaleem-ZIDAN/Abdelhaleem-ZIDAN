@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Abdelhaleem-ZIDAN
+- I am currently a pharmacy Coordinator working with **MSF** "*humaniterian organization*" for the past 4 years. my main focus is providing the best quality pharmaceutical services for the people in need. using my experience and skills in pharmaceutical supply and data analysis.
 - 👀 I’m interested in **Data_analysis, Data_science, ML**
 - 🌱 I’m currently learning **R**
 - 💞️ I’m looking to collaborate on challenging projects and case studies to improve my skills **R** and to build on my current experience with **SQL, Tablue, and MS power BI**
